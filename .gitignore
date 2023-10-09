@@ -1,5 +1,9 @@
 .DS_Store
 
+# JSON auth files
+credentials.json
+token.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
