@@ -47,6 +47,6 @@ class DriveModule():
           break
     except HttpError as error:
       print(f'An error occured: {error}')
-      file = None
+      files = None
 
     return files
